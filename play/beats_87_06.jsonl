@@ -743,3 +743,6 @@
 {"n":743,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the Lot. Nobody past the east yard. We win in 4 steps. Arc on the left lane, open."}
 {"n":744,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east yard. Ivo keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east yard. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at the Lot. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
+{"n":747,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east yard. Bess keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east yard. arc left open. 2 steps. The radio coil stays for the win."}
