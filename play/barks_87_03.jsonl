@@ -297,3 +297,6 @@
 {"n":297,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier west yard. Nia keeps the barrel for the win. 2 steps, arc on the left lane, open."}
 {"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west yard. arc left open. 3 steps. The barrel stays for the win."}
 {"n":299,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the pier. Nobody past the west yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier west yard. Ivo keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":301,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west yard. arc left open. 6 steps. The barrel stays for the win."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at the pier. Nobody past the west yard. We win in 7 steps. Arc on the left lane, open."}
