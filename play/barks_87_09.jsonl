@@ -984,3 +984,6 @@
 {"n":984,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard south yard. Ivo keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":985,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south yard. arc left open. 5 steps. The rope stays for the win."}
 {"n":986,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Mast yard. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":987,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south yard. Bess keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":988,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south yard. arc left open. 8 steps. The rope stays for the win."}
+{"n":989,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Last Light. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
