@@ -933,3 +933,6 @@
 {"n":933,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot south yard. Nia keeps the rope for the win. 2 steps, arc on the left lane, open."}
 {"n":934,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. arc left open. 3 steps. The rope stays for the win."}
 {"n":935,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at the Lot. Nobody past the south yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":936,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the rope for the win. 5 steps, arc on the left lane, open."}
+{"n":937,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The rope stays for the win."}
+{"n":938,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at the Lot. Nobody past the south yard. We win in 7 steps. Arc on the left lane, open."}
