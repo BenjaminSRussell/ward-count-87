@@ -221,3 +221,6 @@
 {"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. arc left open. 5 steps. The shutter stays for the win."}
 {"n":222,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at High line. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":223,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north yard. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":224,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north yard. arc left open. 8 steps. The shutter stays for the win."}
+{"n":225,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Ward gate. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":226,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north yard. Matt keeps the awning for the win. 3 steps, arc on the left lane, open."}
