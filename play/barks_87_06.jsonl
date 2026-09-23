@@ -333,3 +333,6 @@
 {"n":333,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east yard. Nia keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":334,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east yard. arc left open. 8 steps. The awning stays for the win."}
 {"n":335,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Clinic roof. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":336,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof east yard. Ivo keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east yard. arc left open. 4 steps. The awning stays for the win."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Clinic roof. Nobody past the east yard. We win in 5 steps. Arc on the left lane, open."}
