@@ -344,3 +344,6 @@
 {"n":344,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Kessler alley. Nobody past the north slip. We win in 3 steps. Arc on the left lane, open."}
 {"n":345,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north slip. Nia keeps the drum for the win. 4 steps, arc on the left lane, open."}
 {"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north slip. arc left open. 5 steps. The drum stays for the win."}
+{"n":347,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Kessler alley. Nobody past the north slip. We win in 6 steps. Arc on the left lane, open."}
+{"n":348,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":349,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The drum stays for the win."}
