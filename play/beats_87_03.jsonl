@@ -464,3 +464,6 @@
 {"n":464,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the pier. Nobody past the west yard. We win in 8 steps. Arc on the left lane, open."}
 {"n":465,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west yard. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
 {"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west yard. arc left open. 3 steps. The crate stays for the win."}
+{"n":467,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the pier. Nobody past the west yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":468,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west yard. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
+{"n":469,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west yard. arc left open. 6 steps. The crate stays for the win."}
