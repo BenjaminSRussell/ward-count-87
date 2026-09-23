@@ -536,3 +536,6 @@
 {"n":536,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the north slip. We win in 6 steps. Arc on the left lane, open."}
 {"n":537,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the badge door for the win. 7 steps, arc on the left lane, open."}
 {"n":538,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. arc left open. 8 steps. The badge door stays for the win."}
+{"n":539,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Stockyard fence. Nobody past the north slip. We win in 2 steps. Arc on the left lane, open."}
+{"n":540,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence north slip. Ivo keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":541,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north slip. arc left open. 4 steps. The badge door stays for the win."}
