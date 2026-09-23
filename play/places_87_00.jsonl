@@ -34,3 +34,6 @@
 {"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. arc left open. 8 steps. The shutter stays for the win."}
 {"n":35,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Stockyard fence. Nobody past the north slip. We win in 2 steps. Arc on the left lane, open."}
 {"n":36,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north slip. Ivo keeps the shutter for the win. 3 steps, arc on the left lane, open."}
+{"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north slip. arc left open. 4 steps. The shutter stays for the win."}
+{"n":38,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the north slip. We win in 5 steps. Arc on the left lane, open."}
+{"n":39,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence north slip. Bess keeps the shutter for the win. 6 steps, arc on the left lane, open."}
