@@ -604,3 +604,6 @@
 {"n":604,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west yard. arc left open. 8 steps. The lamp stays for the win."}
 {"n":605,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Last Light. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
 {"n":606,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west yard. Matt keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":607,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west yard. arc left open. 4 steps. The lamp stays for the win."}
+{"n":608,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at Last Light. Nobody past the west yard. We win in 5 steps. Arc on the left lane, open."}
+{"n":609,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west yard. Nia keeps the lamp for the win. 6 steps, arc on the left lane, open."}
