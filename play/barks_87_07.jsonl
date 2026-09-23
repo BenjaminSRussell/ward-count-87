@@ -419,3 +419,6 @@
 {"n":419,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north yard. Bess keeps the crate for the win. 8 steps, arc on the left lane, open."}
 {"n":420,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north yard. arc left open. 2 steps. The crate stays for the win."}
 {"n":421,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north yard. We win in 3 steps. Arc on the left lane, open."}
+{"n":422,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north yard. Matt keeps the crate for the win. 4 steps, arc on the left lane, open."}
+{"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north yard. arc left open. 5 steps. The crate stays for the win."}
+{"n":424,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Stockyard fence. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
