@@ -874,3 +874,6 @@
 {"n":874,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The rope stays for the win."}
 {"n":875,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Kessler alley. Nobody past the west yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":876,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":877,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The rope stays for the win."}
+{"n":878,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Kessler alley. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":879,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the rope for the win. 3 steps, arc on the left lane, open."}
