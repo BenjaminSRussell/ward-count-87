@@ -70,3 +70,6 @@
 {"n":70,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
 {"n":71,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north yard. Bess keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
 {"n":72,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. arc left open. 4 steps. The hydrant stays for the win."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at the Lot. Nobody past the north yard. We win in 5 steps. Arc on the left lane, open."}
+{"n":74,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north yard. Matt keeps the hydrant for the win. 6 steps, arc on the left lane, open."}
+{"n":75,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north yard. arc left open. 7 steps. The hydrant stays for the win."}
