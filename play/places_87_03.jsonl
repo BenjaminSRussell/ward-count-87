@@ -265,3 +265,6 @@
 {"n":265,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west yard. arc left open. 5 steps. The barrel stays for the win."}
 {"n":266,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the west yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":267,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west yard. Bess keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":268,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west yard. arc left open. 8 steps. The barrel stays for the win."}
+{"n":269,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Last Light. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":270,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west yard. Matt keeps the barrel for the win. 3 steps, arc on the left lane, open."}
