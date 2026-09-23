@@ -359,3 +359,6 @@
 {"n":359,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south slip. Bess keeps the crate for the win. 3 steps, arc on the left lane, open."}
 {"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south slip. arc left open. 4 steps. The crate stays for the win."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at the Lot. Nobody past the south slip. We win in 5 steps. Arc on the left lane, open."}
+{"n":362,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south slip. Matt keeps the crate for the win. 6 steps, arc on the left lane, open."}
+{"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south slip. arc left open. 7 steps. The crate stays for the win."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Lot. Nobody past the south slip. We win in 8 steps. Arc on the left lane, open."}
