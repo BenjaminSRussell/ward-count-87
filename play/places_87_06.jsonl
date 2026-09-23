@@ -874,3 +874,6 @@
 {"n":874,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east yard. arc left open. 2 steps. The radio coil stays for the win."}
 {"n":875,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at High line. Nobody past the east yard. We win in 3 steps. Arc on the left lane, open."}
 {"n":876,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east yard. Ivo keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
+{"n":877,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east yard. arc left open. 5 steps. The radio coil stays for the win."}
+{"n":878,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at High line. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":879,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east yard. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
