@@ -96,3 +96,6 @@
 {"n":96,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair north slip. Ivo keeps the shutter for the win. 7 steps, arc on the left lane, open."}
 {"n":97,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. arc left open. 8 steps. The shutter stays for the win."}
 {"n":98,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at South stair. Nobody past the north slip. We win in 2 steps. Arc on the left lane, open."}
+{"n":99,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north slip. Bess keeps the shutter for the win. 3 steps, arc on the left lane, open."}
+{"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The shutter stays for the win."}
+{"n":101,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at the pier. Nobody past the north slip. We win in 5 steps. Arc on the left lane, open."}
