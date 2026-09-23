@@ -296,3 +296,6 @@
 {"n":296,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north yard. Ivo keeps the barrel for the win. 4 steps, arc on the left lane, open."}
 {"n":297,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north yard. arc left open. 5 steps. The barrel stays for the win."}
 {"n":298,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":299,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north yard. Bess keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north yard. arc left open. 8 steps. The barrel stays for the win."}
+{"n":301,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Last Light. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
