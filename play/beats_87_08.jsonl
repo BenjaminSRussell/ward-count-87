@@ -159,3 +159,6 @@
 {"n":159,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at South stair. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":160,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north yard. Ivo keeps the shutter for the win. 7 steps, arc on the left lane, open."}
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north yard. arc left open. 8 steps. The shutter stays for the win."}
+{"n":162,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at South stair. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":163,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north yard. Bess keeps the shutter for the win. 3 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. arc left open. 4 steps. The shutter stays for the win."}
