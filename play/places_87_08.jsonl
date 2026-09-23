@@ -554,3 +554,6 @@
 {"n":554,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north yard. arc left open. 2 steps. The drum stays for the win."}
 {"n":555,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at High line. Nobody past the north yard. We win in 3 steps. Arc on the left lane, open."}
 {"n":556,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north yard. Ivo keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. arc left open. 5 steps. The drum stays for the win."}
+{"n":558,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at High line. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":559,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north yard. Bess keeps the drum for the win. 7 steps, arc on the left lane, open."}
