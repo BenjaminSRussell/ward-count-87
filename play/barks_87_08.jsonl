@@ -916,3 +916,6 @@
 {"n":916,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south yard. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":917,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south yard. arc left open. 8 steps. The plywood stays for the win."}
 {"n":918,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":919,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south yard. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south yard. arc left open. 4 steps. The plywood stays for the win."}
+{"n":921,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the Lot. Nobody past the south yard. We win in 5 steps. Arc on the left lane, open."}
