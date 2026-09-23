@@ -911,3 +911,6 @@
 {"n":911,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east yard. arc left open. 5 steps. The rope stays for the win."}
 {"n":912,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Stockyard fence. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":913,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east yard. Nia keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":914,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east yard. arc left open. 8 steps. The rope stays for the win."}
+{"n":915,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Stockyard fence. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":916,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east yard. Ivo keeps the rope for the win. 3 steps, arc on the left lane, open."}
