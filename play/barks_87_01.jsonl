@@ -629,3 +629,6 @@
 {"n":629,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south slip. Nia keeps the lamp for the win. 7 steps, arc on the left lane, open."}
 {"n":630,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south slip. arc left open. 8 steps. The lamp stays for the win."}
 {"n":631,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Clinic roof. Nobody past the south slip. We win in 2 steps. Arc on the left lane, open."}
+{"n":632,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south slip. Ivo keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":633,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south slip. arc left open. 4 steps. The lamp stays for the win."}
+{"n":634,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Clinic roof. Nobody past the south slip. We win in 5 steps. Arc on the left lane, open."}
