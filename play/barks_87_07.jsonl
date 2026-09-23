@@ -245,3 +245,6 @@
 {"n":245,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north yard. Nia keeps the barrel for the win. 2 steps, arc on the left lane, open."}
 {"n":246,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north yard. arc left open. 3 steps. The barrel stays for the win."}
 {"n":247,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the Lot. Nobody past the north yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":248,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north yard. Ivo keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north yard. arc left open. 6 steps. The barrel stays for the win."}
+{"n":250,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at the Lot. Nobody past the north yard. We win in 7 steps. Arc on the left lane, open."}
