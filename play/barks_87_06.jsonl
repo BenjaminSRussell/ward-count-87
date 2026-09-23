@@ -228,3 +228,6 @@
 {"n":228,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east yard. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":229,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east yard. arc left open. 8 steps. The awning stays for the win."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":231,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east yard. Bess keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east yard. arc left open. 4 steps. The awning stays for the win."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the Lot. Nobody past the east yard. We win in 5 steps. Arc on the left lane, open."}
