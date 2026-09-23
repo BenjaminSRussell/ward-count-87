@@ -177,3 +177,6 @@
 {"n":177,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east yard. Nia keeps the shutter for the win. 5 steps, arc on the left lane, open."}
 {"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east yard. arc left open. 6 steps. The shutter stays for the win."}
 {"n":179,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Switchyard. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
+{"n":180,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east yard. Ivo keeps the shutter for the win. 8 steps, arc on the left lane, open."}
+{"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east yard. arc left open. 2 steps. The shutter stays for the win."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Switchyard. Nobody past the east yard. We win in 3 steps. Arc on the left lane, open."}
