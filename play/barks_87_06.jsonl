@@ -117,3 +117,6 @@
 {"n":117,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard east yard. Nia keeps the shutter for the win. 8 steps, arc on the left lane, open."}
 {"n":118,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east yard. arc left open. 2 steps. The shutter stays for the win."}
 {"n":119,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Mast yard. Nobody past the east yard. We win in 3 steps. Arc on the left lane, open."}
+{"n":120,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard east yard. Ivo keeps the shutter for the win. 4 steps, arc on the left lane, open."}
+{"n":121,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east yard. arc left open. 5 steps. The shutter stays for the win."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Mast yard. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
