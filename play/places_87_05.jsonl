@@ -218,3 +218,6 @@
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east yard. arc left open. 5 steps. The barrel stays for the win."}
 {"n":219,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Kessler alley. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":220,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east yard. Ivo keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east yard. arc left open. 8 steps. The barrel stays for the win."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Kessler alley. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":223,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east yard. Bess keeps the barrel for the win. 3 steps, arc on the left lane, open."}
