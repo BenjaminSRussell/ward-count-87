@@ -352,3 +352,6 @@
 {"n":352,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Switchyard. Nobody past the north yard. We win in 4 steps. Arc on the left lane, open."}
 {"n":353,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north yard. Nia keeps the barrel for the win. 5 steps, arc on the left lane, open."}
 {"n":354,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north yard. arc left open. 6 steps. The barrel stays for the win."}
+{"n":355,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Switchyard. Nobody past the north yard. We win in 7 steps. Arc on the left lane, open."}
+{"n":356,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north yard. Ivo keeps the barrel for the win. 8 steps, arc on the left lane, open."}
+{"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north yard. arc left open. 2 steps. The barrel stays for the win."}
