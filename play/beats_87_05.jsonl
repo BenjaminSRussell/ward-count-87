@@ -255,3 +255,6 @@
 {"n":255,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Mall court. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
 {"n":256,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court east yard. Ivo keeps the barrel for the win. 8 steps, arc on the left lane, open."}
 {"n":257,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east yard. arc left open. 2 steps. The barrel stays for the win."}
+{"n":258,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mall court. Nobody past the east yard. We win in 3 steps. Arc on the left lane, open."}
+{"n":259,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court east yard. Bess keeps the barrel for the win. 4 steps, arc on the left lane, open."}
+{"n":260,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east yard. arc left open. 5 steps. The barrel stays for the win."}
