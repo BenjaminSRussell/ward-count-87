@@ -141,3 +141,6 @@
 {"n":141,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"South stair east yard. Nia keeps the shutter for the win. 4 steps, arc on the left lane, open."}
 {"n":142,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east yard. arc left open. 5 steps. The shutter stays for the win."}
 {"n":143,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at South stair. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":144,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair east yard. Ivo keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":145,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east yard. arc left open. 8 steps. The shutter stays for the win."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at South stair. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
