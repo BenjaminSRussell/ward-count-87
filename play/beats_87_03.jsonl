@@ -86,3 +86,6 @@
 {"n":86,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the Underpass. Nobody past the west yard. We win in 8 steps. Arc on the left lane, open."}
 {"n":87,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west yard. Bess keeps the hydrant for the win. 2 steps, arc on the left lane, open."}
 {"n":88,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west yard. arc left open. 3 steps. The hydrant stays for the win."}
+{"n":89,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Mast yard. Nobody past the west yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":90,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west yard. Matt keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":91,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west yard. arc left open. 6 steps. The hydrant stays for the win."}
