@@ -725,3 +725,6 @@
 {"n":725,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court south slip. Nia keeps the rebar for the win. 5 steps, arc on the left lane, open."}
 {"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south slip. arc left open. 6 steps. The rebar stays for the win."}
 {"n":727,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Mall court. Nobody past the south slip. We win in 7 steps. Arc on the left lane, open."}
+{"n":728,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court south slip. Ivo keeps the rebar for the win. 8 steps, arc on the left lane, open."}
+{"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south slip. arc left open. 2 steps. The rebar stays for the win."}
+{"n":730,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Mall court. Nobody past the south slip. We win in 3 steps. Arc on the left lane, open."}
