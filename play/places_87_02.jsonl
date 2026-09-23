@@ -161,3 +161,6 @@
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south slip. arc left open. 7 steps. The shutter stays for the win."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Drydock. Nobody past the south slip. We win in 8 steps. Arc on the left lane, open."}
 {"n":163,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south slip. Bess keeps the shutter for the win. 2 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south slip. arc left open. 3 steps. The shutter stays for the win."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at High line. Nobody past the south slip. We win in 4 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line south slip. Matt keeps the shutter for the win. 5 steps, arc on the left lane, open."}
