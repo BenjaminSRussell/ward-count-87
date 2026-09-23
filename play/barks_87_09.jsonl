@@ -309,3 +309,6 @@
 {"n":309,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south yard. Nia keeps the barrel for the win. 8 steps, arc on the left lane, open."}
 {"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south yard. arc left open. 2 steps. The barrel stays for the win."}
 {"n":311,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Mast yard. Nobody past the south yard. We win in 3 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south yard. Ivo keeps the barrel for the win. 4 steps, arc on the left lane, open."}
+{"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south yard. arc left open. 5 steps. The barrel stays for the win."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
