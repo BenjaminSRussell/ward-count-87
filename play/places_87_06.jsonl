@@ -904,3 +904,6 @@
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. arc left open. 4 steps. The plywood stays for the win."}
 {"n":905,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the Lot. Nobody past the north yard. We win in 5 steps. Arc on the left lane, open."}
 {"n":906,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot north yard. Matt keeps the plywood for the win. 6 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north yard. arc left open. 7 steps. The plywood stays for the win."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at the Lot. Nobody past the north yard. We win in 8 steps. Arc on the left lane, open."}
+{"n":909,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north yard. Nia keeps the plywood for the win. 2 steps, arc on the left lane, open."}
