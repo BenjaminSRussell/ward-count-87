@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the pier. Nobody past the east yard. We win in 4 steps. Arc on the left lane, open."}
 {"n":828,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east yard. Ivo keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east yard. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at the pier. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
+{"n":831,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier east yard. Bess keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east yard. arc left open. 2 steps. The radio coil stays for the win."}
