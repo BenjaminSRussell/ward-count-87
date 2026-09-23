@@ -127,3 +127,6 @@
 {"n":127,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Mast yard. Nobody past the north yard. We win in 3 steps. Arc on the left lane, open."}
 {"n":128,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north yard. Ivo keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
 {"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north yard. arc left open. 5 steps. The hydrant stays for the win."}
+{"n":130,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Mast yard. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":131,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north yard. Bess keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north yard. arc left open. 8 steps. The hydrant stays for the win."}
