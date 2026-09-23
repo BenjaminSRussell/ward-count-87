@@ -559,3 +559,6 @@
 {"n":559,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Ward gate. Nobody past the north yard. We win in 8 steps. Arc on the left lane, open."}
 {"n":560,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate north yard. Ivo keeps the lamp for the win. 2 steps, arc on the left lane, open."}
 {"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north yard. arc left open. 3 steps. The lamp stays for the win."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Ward gate. Nobody past the north yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":563,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north yard. Bess keeps the lamp for the win. 5 steps, arc on the left lane, open."}
+{"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north yard. arc left open. 6 steps. The lamp stays for the win."}
