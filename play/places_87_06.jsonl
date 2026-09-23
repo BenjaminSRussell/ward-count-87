@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east yard. arc left open. 5 steps. The drum stays for the win."}
 {"n":395,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Kessler alley. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":396,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east yard. Ivo keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east yard. arc left open. 8 steps. The drum stays for the win."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Kessler alley. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":399,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east yard. Bess keeps the drum for the win. 3 steps, arc on the left lane, open."}
