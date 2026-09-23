@@ -14,3 +14,6 @@
 {"n":14,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the west yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":15,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west yard. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":16,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The plywood stays for the win."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":18,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate west yard. Matt keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":19,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west yard. arc left open. 4 steps. The hydrant stays for the win."}
