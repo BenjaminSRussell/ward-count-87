@@ -33,3 +33,6 @@
 {"n":33,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
 {"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The hydrant stays for the win."}
 {"n":35,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Kessler alley. Nobody past the west yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":36,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":38,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
