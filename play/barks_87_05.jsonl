@@ -649,3 +649,6 @@
 {"n":649,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier east yard. Nia keeps the lamp for the win. 2 steps, arc on the left lane, open."}
 {"n":650,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east yard. arc left open. 3 steps. The lamp stays for the win."}
 {"n":651,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the pier. Nobody past the east yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":652,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier east yard. Ivo keeps the lamp for the win. 5 steps, arc on the left lane, open."}
+{"n":653,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east yard. arc left open. 6 steps. The lamp stays for the win."}
+{"n":654,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the pier. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
