@@ -748,3 +748,6 @@
 {"n":748,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north yard. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":749,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north yard. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":751,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north yard. Bess keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":752,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at the Lot. Nobody past the north yard. We win in 5 steps. Arc on the left lane, open."}
