@@ -638,3 +638,6 @@
 {"n":638,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east yard. arc left open. 5 steps. The lamp stays for the win."}
 {"n":639,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at South stair. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":640,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair east yard. Ivo keeps the lamp for the win. 7 steps, arc on the left lane, open."}
+{"n":641,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east yard. arc left open. 8 steps. The lamp stays for the win."}
+{"n":642,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at South stair. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":643,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east yard. Bess keeps the lamp for the win. 3 steps, arc on the left lane, open."}
