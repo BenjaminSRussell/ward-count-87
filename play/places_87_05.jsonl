@@ -2,3 +2,6 @@
 {"n":2,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east yard. arc left open. 6 steps. The plywood stays for the win."}
 {"n":3,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Switchyard. Nobody past the east yard. We win in 7 steps. Arc on the left lane, open."}
 {"n":4,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard east yard. Ivo keeps the plywood for the win. 8 steps, arc on the left lane, open."}
+{"n":5,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east yard. arc left open. 2 steps. The plywood stays for the win."}
+{"n":6,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the east yard. We win in 3 steps. Arc on the left lane, open."}
+{"n":7,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east yard. Bess keeps the plywood for the win. 4 steps, arc on the left lane, open."}
