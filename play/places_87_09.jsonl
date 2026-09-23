@@ -334,3 +334,6 @@
 {"n":334,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south yard. arc left open. 5 steps. The barrel stays for the win."}
 {"n":335,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at South stair. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":336,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair south yard. Ivo keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south yard. arc left open. 8 steps. The barrel stays for the win."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at South stair. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south yard. Bess keeps the barrel for the win. 3 steps, arc on the left lane, open."}
