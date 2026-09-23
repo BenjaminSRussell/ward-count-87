@@ -141,3 +141,6 @@
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south slip. arc left open. 2 steps. The hydrant stays for the win."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Switchyard. Nobody past the south slip. We win in 3 steps. Arc on the left lane, open."}
 {"n":143,"kind":"place","name":"Switchyard south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south slip. Bess keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south slip. arc left open. 5 steps. The hydrant stays for the win."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Drydock. Nobody past the south slip. We win in 6 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south slip. Matt keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
