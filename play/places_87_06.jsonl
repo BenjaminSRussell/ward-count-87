@@ -130,3 +130,6 @@
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east yard. arc left open. 7 steps. The shutter stays for the win."}
 {"n":131,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Last Light. Nobody past the east yard. We win in 8 steps. Arc on the left lane, open."}
 {"n":132,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light east yard. Ivo keeps the shutter for the win. 2 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east yard. arc left open. 3 steps. The shutter stays for the win."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Last Light. Nobody past the east yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":135,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light east yard. Bess keeps the shutter for the win. 5 steps, arc on the left lane, open."}
