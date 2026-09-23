@@ -548,3 +548,6 @@
 {"n":548,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
 {"n":549,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The badge door stays for the win."}
 {"n":550,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the west yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":551,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west yard. arc left open. 4 steps. The badge door stays for the win."}
+{"n":553,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at the Lot. Nobody past the west yard. We win in 5 steps. Arc on the left lane, open."}
