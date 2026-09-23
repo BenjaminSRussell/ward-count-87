@@ -133,3 +133,6 @@
 {"n":133,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair east yard. Nia keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
 {"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east yard. arc left open. 5 steps. The hydrant stays for the win."}
 {"n":135,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at South stair. Nobody past the east yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":136,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east yard. Ivo keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":137,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east yard. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":138,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at South stair. Nobody past the east yard. We win in 2 steps. Arc on the left lane, open."}
