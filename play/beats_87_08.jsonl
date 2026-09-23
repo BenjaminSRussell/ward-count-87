@@ -579,3 +579,6 @@
 {"n":579,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Kessler alley. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":580,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north yard. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
 {"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north yard. arc left open. 8 steps. The badge door stays for the win."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":583,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north yard. Bess keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":584,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. arc left open. 4 steps. The badge door stays for the win."}
