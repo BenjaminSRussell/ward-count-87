@@ -966,3 +966,6 @@
 {"n":966,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the Underpass. Nobody past the south yard. We win in 8 steps. Arc on the left lane, open."}
 {"n":967,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south yard. Bess keeps the plywood for the win. 2 steps, arc on the left lane, open."}
 {"n":968,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south yard. arc left open. 3 steps. The plywood stays for the win."}
+{"n":969,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Mast yard. Nobody past the south yard. We win in 4 steps. Arc on the left lane, open."}
+{"n":970,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south yard. Matt keeps the plywood for the win. 5 steps, arc on the left lane, open."}
+{"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south yard. arc left open. 6 steps. The plywood stays for the win."}
