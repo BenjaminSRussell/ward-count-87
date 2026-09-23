@@ -273,3 +273,6 @@
 {"n":273,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier north slip. Nia keeps the awning for the win. 2 steps, arc on the left lane, open."}
 {"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north slip. arc left open. 3 steps. The awning stays for the win."}
 {"n":275,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at the pier. Nobody past the north slip. We win in 4 steps. Arc on the left lane, open."}
+{"n":276,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north slip. Ivo keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The awning stays for the win."}
+{"n":278,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the pier. Nobody past the north slip. We win in 7 steps. Arc on the left lane, open."}
