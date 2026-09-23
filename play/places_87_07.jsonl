@@ -549,3 +549,6 @@
 {"n":549,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. arc left open. 5 steps. The crate stays for the win."}
 {"n":550,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at High line. Nobody past the north yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":551,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north yard. Bess keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north yard. arc left open. 8 steps. The crate stays for the win."}
+{"n":553,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Ward gate. Nobody past the north yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":554,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north yard. Matt keeps the lamp for the win. 3 steps, arc on the left lane, open."}
